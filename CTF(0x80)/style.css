@@ -1,0 +1,46 @@
+   
+        li .a{
+            text-decoration:none;
+            color:rgb(182, 182, 182);
+            font-weight: 100;
+        }
+        a:hover{
+            color: aqua;
+            
+        }
+        .font{
+            font-weight: 400;
+            align-self: center;
+        }
+        .Nav{
+            display: flex;
+            align-items: center;
+           
+        }
+        .content-img{
+            height:500px;
+            width: 100%;
+            background-color: black;
+            padding:15px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: 500px;
+            
+
+        }
+        .content{
+            font-size: 30px;
+            text-indent: 10px;
+        }
+        .footer{
+            background-color: white;
+            color: rgb(0, 0, 0);
+            margin: 0;
+            
+            
+        }
+        .size{
+            
+            font-size: 100px;
+            padding:10px
+        }
